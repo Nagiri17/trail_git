@@ -1,6 +1,9 @@
 a = 9
 b = 9
-print(a,b)
+print(a, b)
 
-c= a+b
+c = a + b
 print(c)
+
+d = a- b
+print(d)
